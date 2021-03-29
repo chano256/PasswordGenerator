@@ -1,1 +1,1 @@
-# PasswordGenerator
+# Simple PasswordGenerator in Java
